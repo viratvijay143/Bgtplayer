@@ -13,11 +13,11 @@ def help_pannel(_, START: Union[bool, int] = None):
         InlineKeyboardButton(
             # text=_["BACK_BUTTON"],
             text="Updates",
-            url=f"https://t.me/BikashGadgetsTech",
+            url=f"@vijaysahu_2",
         ),
         InlineKeyboardButton(
             text="Creator",
-            url=f"t.me/BikashHalder",
+            url=f"t.me/vijaysahu_2",
         ),
         InlineKeyboardButton(
             text="Close", callback_data=f"close"
@@ -88,7 +88,7 @@ def help_pannel(_, START: Union[bool, int] = None):
                     callback_data="help_callback hb6",
                 ),
                 InlineKeyboardButton(
-                    text="Repo",
+                    text="🥵",
                     callback_data="help_callback hb17",
                 ),
                 InlineKeyboardButton(
