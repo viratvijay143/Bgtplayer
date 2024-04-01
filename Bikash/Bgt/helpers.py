@@ -177,7 +177,7 @@ HELP_16 = """**<u>MORE FUNCTION:</u>**
 
 /ask - ask Anything 
 
-/bikash - check who is Bikash
+/vijay - check who is Bikash
 
 /owner - check who is creator of this repo
 
